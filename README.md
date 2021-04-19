@@ -1,4 +1,4 @@
-Try it out: (https://roblox-shirt-generator.herokuapp.com/)[https://roblox-shirt-generator.herokuapp.com/]
+## Try it out: [https://roblox-shirt-generator.herokuapp.com/](https://roblox-shirt-generator.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
